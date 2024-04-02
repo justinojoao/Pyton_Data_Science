@@ -23,3 +23,5 @@ Ferramentas
 . Google colab
 . Bibliotecas Python:
  . ipython, pandas, jupyterlab;
+
+
